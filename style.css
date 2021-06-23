@@ -1,0 +1,240 @@
+.font1{
+    font-family: 'Bebas Neue';
+}
+
+.font2{
+    font-family: 'Roboto', sans-serif;
+}
+.nav{
+    height: 20px;
+}
+.navbar{
+    float: right;
+    margin-right: 250px;
+    margin-top: 20px;
+}
+
+.section-area{
+    width: 100%;
+    height: 700px;
+}
+
+.navbar a{
+    font-size: 16px;
+    font-weight:500;
+    text-decoration: none;
+    color: #3C3C3C;
+    margin-left: 30px;  
+    text-transform: unset;
+}
+
+.navbar a:hover{
+    color: #FF8367;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+}
+
+.top-title{
+    color: #363958;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+
+.top-title h1{
+    font-weight: 500;
+    font-size: 80px;
+}
+
+#my_name{
+    color: #FF8367;
+    margin-top: -80px;
+    
+}
+
+.top-img img{
+    width: 80%;
+}
+
+.paragraph{
+    font-size: 16px;
+    color: #3E3E3E;
+    margin-top: -50px;
+    margin-bottom: 40px;
+    text-align: justify;
+    width: 80%;;
+
+}
+
+.button{
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(0deg, #FF8063 -28.33%, #F46060 95.83%);
+    border-radius: 8px;
+    padding: 18px 57px;
+}
+
+
+.about-img{
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+.about-img img{
+    width: 100%;
+}
+.about-title h1{
+    font-family: 'Bebas Neue';
+    font-weight: 500;
+    font-size: 80px;
+    margin-top: 250px;
+    color: #363958;
+}
+
+#download-icon{
+    margin-right: 15px;
+}
+
+.latest-work{
+    background-color: #F8F9FC;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.latest-title{
+    font-size: 48px;
+    font-weight: 500;
+    text-align: center;
+    color: #363958;
+    padding-top: 100px;
+}
+
+#latest-color{
+    color: #F46060;
+}
+
+
+.card{
+    float: left;
+    width: 20%;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px gray;
+    margin-left: 50px;
+
+}
+.card1{
+    margin-left: 300px;
+}
+.card img{
+    width: 100%;
+}
+
+.card-title{
+    font-size: 20px;
+    font-weight: bold;
+    color: #363958;
+}
+
+.card-p{
+    font-size: 16px;
+    color: #6C6C6C;
+}
+
+.logoimg img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.work{
+    text-align: center;
+    height: 600px;
+}
+.work h1{
+    font-size: 35px;
+    font-weight: 500;
+    color: #363958;
+}
+
+.designation{
+    font-size: 20px;
+    color: #3E3E3E;
+}
+
+.work-period{
+    font-size: 15px;
+    color: work-period;
+}
+
+.work-details{
+    text-align: justify;
+    color: dimgray;
+}
+.work-experience{
+    height: 1000px;
+}
+
+.inquiry{
+    width: 60%;
+    height: 225px;
+    background-image: linear-gradient(138.38deg, #5D69E9 -7.79%, #4225B6 98.72%);
+    border-radius: 30px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.inq{
+    float: left;
+    width: 40%;
+    text-align: center;
+    
+    
+}
+
+.inqtitle{
+    font-size: 40px;
+    color: white;
+    margin-top: 50px;
+}
+.chatbox{
+    margin-top: 120px;
+}
+.chatbox a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    background-image: linear-gradient(0deg, #FF8063 -28.33%, #F46060 95.83%);
+    border-radius: 6px;
+    margin-left: 300px;
+    padding: 18px 32px;
+}
+
+.contact{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.stayconnected{
+        font-size: 30px;
+        color: #696871;
+}
+
+.email{
+    font-size: 36px;
+    color: #363958;
+    font-weight: 700;
+}
+.social-logo img{
+    width: 40px;
+    margin-right: 20px;
+}
